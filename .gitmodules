@@ -1,0 +1,6 @@
+[submodule "deps/sqlite3pp"]
+	path = deps/sqlite3pp
+	url = https://github.com/iwongu/sqlite3pp.git
+[submodule "deps/cereal"]
+	path = deps/cereal
+	url = https://github.com/USCiLab/cereal.git
